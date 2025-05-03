@@ -16,4 +16,5 @@ Statistical methods for **Risk Measurement** in finance are essential tools used
 
 
 The following figure shows a histogram of daily returns with lines indicating the VaR estimates.
-![Alt text](/VaR.png)
+
+![Alt text](./VaR.png)
