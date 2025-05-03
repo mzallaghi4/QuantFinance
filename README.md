@@ -38,6 +38,10 @@ Machine learning is used to predict asset prices and volatility, enabling more d
 - Reinforcement Learning: Developing strategies for portfolio optimization by training agents to maximize portfolio performance over time using reinforcement learning techniques.
 
 
+
+<br/><br/><br/>
+
+
 #### Acknowledgements <br/>
 yfinance:for download market data from Yahoo!  <br/>
 Scikit-learn and PyTorch: For deep learning models and tools. <br/>
