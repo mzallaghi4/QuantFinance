@@ -43,6 +43,6 @@ Machine learning is used to predict asset prices and volatility, enabling more d
 
 
 #### Acknowledgements <br/>
-yfinance:for download market data from Yahoo!  <br/>
-Scikit-learn and PyTorch: For deep learning models and tools. <br/>
+`yfinance`:for download market data from Yahoo!  <br/>
+`Scikit-learn` and `PyTorch`: For deep learning models and tools. <br/>
 
