@@ -14,7 +14,7 @@ Employing deep learning algorithms for forecasting financial risks, returns, and
 
 
 ## Project Description 
-1. Risk Measurement <br/>
+**1. Risk Measurement** <br/>
  Risk is an essential part of finance, and accurate measurement is critical for successful risk management. In this project, I have implemented several risk measurement techniques, including:
 
 - Value-at-Risk (VaR): A statistical technique used to measure the potential loss in value of a portfolio under normal market conditions over a specified time period and at a given confidence interval.
@@ -23,14 +23,14 @@ Employing deep learning algorithms for forecasting financial risks, returns, and
 
 - Stress Testing: Simulates the effects of extreme market events on a portfolio to evaluate its resilience under adverse conditions.
 
-2. Portfolio Optimization <br/>
+**2. Portfolio Optimization** <br/>
  The goal of portfolio optimization is to find the best asset allocation that maximizes returns for a given level of risk. The project includes the following techniques:
 
 - Mean-Variance Optimization (MVO): The classic approach for portfolio optimization that balances expected returns and portfolio risk (variance).
 
 - Reinforcement Learning (RL): The modern methods for portfolio management 
 
-3. Deep Learning for Risk Prediction <br/>
+**3. Deep Learning for Risk Prediction** <br/>
 Machine learning is used to predict asset prices and volatility, enabling more dynamic and adaptive risk management strategies. Key techniques include:
 
 - Supervised Learning: Training deep learning models (e.g., LSTMs ) to predict asset returns based on historical data and other financial indicators.
@@ -38,9 +38,7 @@ Machine learning is used to predict asset prices and volatility, enabling more d
 - Reinforcement Learning: Developing strategies for portfolio optimization by training agents to maximize portfolio performance over time using reinforcement learning techniques.
 
 
-#### Acknowledgements
-
+#### Acknowledgements <br/>
 yfinance:for download market data from Yahoo!  <br/>
-
 Scikit-learn and PyTorch: For deep learning models and tools. <br/>
 
