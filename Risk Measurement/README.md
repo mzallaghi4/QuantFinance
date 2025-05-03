@@ -14,3 +14,6 @@ Statistical methods for **Risk Measurement** in finance are essential tools used
   - **Parametric (Variance-Covariance)**: Assumes normal distribution of returns.
   - **Historical Simulation**: Uses actual historical return data.
 
+
+The following figure shows a histogram of daily returns with lines indicating the VaR estimates.
+![Alt text](/VaR.png)
