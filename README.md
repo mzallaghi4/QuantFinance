@@ -2,10 +2,13 @@
 
 This project focuses on applying quantitative finance techniques to address challenges in financial risk management. The goal is to use advanced statistical methods, optimization techniques, and machine learning algorithms to assess and mitigate risks in financial portfolios.  <br/>
 The primary areas of focus in this project are: <br/>
+
 **Risk Measurement**: <br/>
 Statistical methods, such as value-at-risk (VaR), conditional VaR (CVaR), and stress testing, are used to evaluate the risks associated with a financial portfolio.
+
 **Portfolio Optimization**: <br/>
 Developing optimization models to balance risk and return and applying techniques such as variance optimization and Reinforcement Learning models.
+
 **Deep Learning for Risk Prediction**: <br/>
 Employing deep learning algorithms for forecasting financial risks, returns, and enhancing asset allocation within the portfolio.
 
