@@ -1,4 +1,5 @@
 # Quantitative Finance and Risk Management 
+by Mehdi Zallaghi 
 
 This project focuses on applying quantitative finance techniques to address challenges in financial risk management. The goal is to use advanced statistical methods, optimization techniques, and machine learning algorithms to assess and mitigate risks in financial portfolios.  <br/>
 The primary areas of focus in this project are: <br/>
