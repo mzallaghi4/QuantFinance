@@ -25,7 +25,6 @@ It provides a closed-form formula to compute the fair price of:
 * Put Delta: Decreases from 0 to -1 as spot price rises
 * Kink at strike price (K=100) showing maximum sensitivity
 
-
  ## Option pricing models
 
 * Binomial Tree Models: Discrete-time model
