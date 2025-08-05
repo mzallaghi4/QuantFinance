@@ -5,8 +5,13 @@ The Greeks (Delta, Gamma, Vega, Theta, and Rho) help traders and analysts unders
 
 
 #### Greek Calculations
-Delta (Δ): Price sensitivity to underlying asset
-Gamma (Γ): Delta sensitivity to underlying price
-Theta (Θ): Time decay sensitivity
-Vega (ν): Volatility sensitivity
-Rho (ρ): Interest rate sensitivity
+- Delta (Δ): Price sensitivity to underlying asset 
+- Gamma (Γ): Delta sensitivity to underlying price
+- Theta (Θ): Time decay sensitivity
+- Vega (ν): Volatility sensitivity
+- Rho (ρ): Interest rate sensitivity
+
+##### Delta vs Spot Price
+* Call Delta: Increases from 0 to 1 as spot price rises
+* Put Delta: Decreases from 0 to -1 as spot price rises
+* Kink at strike price (K=100) showing maximum sensitivity
