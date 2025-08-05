@@ -32,9 +32,9 @@ It provides a closed-form formula to compute the fair price of:
 * Monte Carlo Simulation: Stochastic simulation
 * Finite Difference Methods: Numerical PDE solver
 * Stochastic Volatility Models
-- Heston Model: volatility is vary over time (unlike constant in Black-Scholes).
+-- Heston Model: volatility is vary over time (unlike constant in Black-Scholes).
 * Jump Diffusion Models
-- Merton’s Jump-Diffusion Model: add random jumps in asset price.
+-- Merton’s Jump-Diffusion Model: add random jumps in asset price.
 
 
  
