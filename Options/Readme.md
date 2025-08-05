@@ -12,7 +12,7 @@ Delta measures the sensitivity of the option price to small changes in the under
 It provides a closed-form formula to compute the fair price of:
 - European call options (right to buy at strike price),
 - European put options (right to sell at strike price),
-- 
+
 #### Greek Calculations
 - Delta (Δ): Price sensitivity to underlying asset 
 - Gamma (Γ): Delta sensitivity to underlying price
