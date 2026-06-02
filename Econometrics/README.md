@@ -29,14 +29,15 @@ This project provides practical implementations of key financial econometric tec
 - Backtesting procedures
 
 
+
+
 #### Data sources:
 - Yahoo Finance
 - FRED Economic Database
 
 
+
 Author : Mehdi Zallaghi
+- 
 PhD in Mathematical Finance
 
-
-License
-This project is licensed under the MIT License.
