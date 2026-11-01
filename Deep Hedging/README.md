@@ -7,10 +7,15 @@ It directly solves a convex risk-minimization problem using neural-network polic
 We develop the overall methodology in three stages:
 
 **Stage 1 — Deep Option Pricing**
+
 > Learn European call prices using an MLP.
+
 **Stage 2 — Neural Option Greeks**
+
 > Estimate Delta, Gamma, and other sensitivities using automatic differentiation.
+
 **Stage 3 — Deep Dynamic Hedging**
+
 > Develop a neural hedging model and compare its performance with conventional Delta hedging.
 
 
