@@ -15,6 +15,7 @@ Output:  European Call Option Price (C)
 
 
 
+```mermaid
 flowchart LR
     subgraph INPUT["Input Layer"]
         S["Spot price S"]
@@ -32,3 +33,6 @@ flowchart LR
 
     S & K & T --> H
     H --> Y
+```
+
+
