@@ -76,3 +76,18 @@ flowchart LR
 The MLP consists of a sequence of nonlinear transformations.
 
 The model learns by minimizing the difference between observed and predicted option prices.
+
+
+### Python Implementation
+
+A collection of Python implementations covering neural-network-based option pricing, Greeks computation via automatic differentiation, and deep reinforcement-learning-style dynamic hedging.
+
+
+[Deep Option Pricing](https://github.com/mzallaghi4/QuantFinance/blob/main/Deep%20Hedging/Deep_Option_Pricing.py) 
+Multilayer perceptron (MLP) that learns the European call pricing map and approximates the Black–Scholes surface. 
+
+[Neural Option Greeks](https://github.com/mzallaghi4/QuantFinance/blob/main/Deep%20Hedging/Neural_Option_Greeks.py) 
+Computes option sensitivities (Delta, Gamma, Vega, Theta) by differentiating the trained network with automatic differentiation. 
+
+[Deep Dynamic Hedging](https://github.com/mzallaghi4/QuantFinance/blob/main/Deep%20Hedging/Deep_Dynamic_Hedging.py) 
+Deep-learning-based dynamic hedging policy that learns a replication strategy for a European call under transaction costs. 
