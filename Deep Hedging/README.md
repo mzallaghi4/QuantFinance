@@ -4,6 +4,17 @@ It is essential to examine the fundamental distinction between the classical par
 Deep hedging is designed to avoid the need for a unique risk-neutral pricing measure in incomplete markets. 
 It directly solves a convex risk-minimization problem using neural-network policies. Rather than eliminating risk-neutral valuation, deep hedging shifts the focus from finding a unique replicating price under a risk-neutral measure to finding a trading strategy that minimizes a specified convex risk measure in an incomplete or frictional market.
 
+We develop the overall methodology in three stages:
+
+**Stage 1 — Deep Option Pricing**
+> Learn European call prices using an MLP.
+**Stage 2 — Neural Option Greeks**
+> Estimate Delta, Gamma, and other sensitivities using automatic differentiation.
+**Stage 3 — Deep Dynamic Hedging**
+> Develop a neural hedging model and compare its performance with conventional Delta hedging.
+
+
+
 ### Deep Neural Network for Option Pricing
 -----------------------
 Objective: Learn the price of an option $(C(S_t, K, T))$ directly from market data
@@ -55,4 +66,8 @@ flowchart LR
     H --> Y
 ```
 
+**Neural network formulation**
 
+The MLP consists of a sequence of nonlinear transformations.
+
+The model learns by minimizing the difference between observed and predicted option prices.
